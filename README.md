@@ -9,7 +9,7 @@ The goal is to have one place to discover quality blogs instead of random intern
 
 ## Table of Contents
 
-| Blog Name | Description |
+| Blog | Description |
 |------------|-------------|
 | [Overreacted](https://overreacted.io/) | Dan Abramov’s blog on React, JavaScript, and lessons from real-world development. |
 | [Kent C. Dodds Blog](https://kentcdodds.com/blog) | Articles on modern frontend development, testing, and developer productivity. |
