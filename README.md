@@ -16,6 +16,7 @@ The goal is to have one place to discover quality blogs instead of random intern
 | [Paul Graham Essays](http://paulgraham.com/articles.html) | Thought pieces on startups, software, and creative thinking. |
 | [CSS-Tricks](https://css-tricks.com/) | Deep dives and tutorials on web design, CSS, and front-end concepts. |
 | [Joel on Software](https://www.joelonsoftware.com/) | Classic insights into software development, management, and culture. |
+| [The System Design Newsletter](https://newsletter.systemdesign.one/) | Practical insights and bite sized lessons into real-world system design. |
 | [sebdd](https://sebastiandedeyne.com/) | Talks about laravel, javascript, and livewire. |
 | [tbhaxor](https://tbhaxor.com/) | Talks about cyber security, cloud computing, devops, machine learning, maths and physics. |
 
