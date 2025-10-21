@@ -19,6 +19,7 @@ The goal is to have one place to discover quality blogs instead of random intern
 | [The System Design Newsletter](https://newsletter.systemdesign.one/) | Practical insights and bite sized lessons into real-world system design. |
 | [Tania Rascia](https://www.taniarascia.com/) | Writes about web development, javaScript, react, and building projects from scratch. |
 | [sebdd](https://sebastiandedeyne.com/) | Talks about laravel, javascript, and livewire. |
+| [Kailash Nadh](https://nadh.in/blog/) | Writes thoughtful essays on technology, philosophy, and the messy intersection of code, culture, and human behavior. |
 | [tbhaxor](https://tbhaxor.com/) | Talks about cyber security, cloud computing, devops, machine learning, maths and physics. |
 
 ---
