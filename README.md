@@ -21,6 +21,7 @@ The goal is to have one place to discover quality blogs instead of random intern
 | [sebdd](https://sebastiandedeyne.com/) | Talks about laravel, javascript, and livewire. |
 | [Kailash Nadh](https://nadh.in/blog/) | Writes thoughtful essays on technology, philosophy, and the messy intersection of code, culture, and human behavior. |
 | [tbhaxor](https://tbhaxor.com/) | Talks about cyber security, cloud computing, devops, machine learning, maths and physics. |
+| [Craft Better Software](https://craftbettersoftware.com/) | Tips on writing clean code and test driven development. |
 
 ---
 
