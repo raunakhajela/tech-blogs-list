@@ -3,7 +3,7 @@
 This is a simple collection of technical blogs I find useful and want to revisit  
 Each blog listed here shares deep insights about programming, software development, product building, design, or technology in general.
 
-The goal is to have one place to discover quality blogs instead of random internet noise.
+The goal is to have one place to discover quality blogs instead of random internet.
 
 ---
 
